@@ -33,7 +33,7 @@ import javax.swing.Timer;   // note this is the Swing timer, not the other one
  * 
  * Yes, I know many of the coordinates are arbitrary and should use percentages to scale
  * proportionally, and much of the code is repeated so it would be more sensible to use
- * private methods, but give me a break - it's my first game.
+ * private methods.
  * 
  * @author Michael
  */
